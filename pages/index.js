@@ -14,14 +14,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <div className="block lg:flex">
-        <Landing />
+      <div className="w-screen">
+        <div className="ml-2 lg:ml-32">
+          <Landing />
+        </div>
         <img
           src="/hacker.svg"
           alt="Hacker"
           height={500}
           width={500}
-          className="mt-32 ml-12 lg:mr-12"
+          className="mt-32 lg:ml-12 lg:mr-12"
         />
       </div>
     </div>
