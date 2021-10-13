@@ -18,10 +18,7 @@ const Navbar = () => {
           <a className="mr-5 hover:text-gray-900" href="/joinus">
             Join Us
           </a>
-          <a
-            className="mr-5 mt-5 md:mt-0 hover:text-gray-900"
-            href="/contactus"
-          >
+          <a className="mr-5 hover:text-gray-900" href="/contactus">
             Contact
           </a>
         </nav>
