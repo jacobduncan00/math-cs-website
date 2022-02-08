@@ -15,6 +15,9 @@ const Navbar = () => {
           <a className="mr-5 hover:text-gray-900" href="/execboard">
             Exec Board
           </a>
+          <a className="mr-5 hover:text-gray-900" href="/gullcode">
+            Gull Code
+          </a>
           <a className="mr-5 hover:text-gray-900" href="/joinus">
             Join Us
           </a>
