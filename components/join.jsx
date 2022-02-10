@@ -9,7 +9,7 @@ const Join = () => {
           <p className="leading-relaxed text-lg">
             We would love to have anyone and everyone come and join our Math &
             Computer Science Club meetings! We hold meetings each{" "}
-            <span className="font-bold">Thursday from 6pm to 7pm.</span> Please
+            <span className="font-bold">Thursday from 7pm to 8pm.</span> Please
             reach out to anyone on the exec board to get more information about
             the club and how you can participate and get involved. Hope to see
             you there!
